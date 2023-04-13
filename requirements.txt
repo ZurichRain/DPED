@@ -1,0 +1,17 @@
+python：3.7.2
+
+bert-base：hunggingface-base
+
+T5-base：hunggingface-base
+
+torch：1.7.0+cu110
+
+spacy：2.1.0
+
+allennlp：2.6.0
+
+dgl-cu110：0.6.1
+
+neuralcoref :     4.0
+
+en-core-web-lg:    2.1.0
